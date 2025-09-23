@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+body {
+    @apply bg-orange-50
+}
+
 .font-quicksand {
     font-family: "Quicksand", sans-serif;
 }
