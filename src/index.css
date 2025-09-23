@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.font-quicksand {
+    font-family: "Quicksand", sans-serif;
+}
+
+.font-inter {
+    font-family: "Inter", sans-serif;
+}
