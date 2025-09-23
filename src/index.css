@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 body {
-    @apply bg-orange-50
+    @apply bg-orange-100/65
 }
 
 .font-quicksand {
